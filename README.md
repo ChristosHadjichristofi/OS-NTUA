@@ -18,7 +18,7 @@
   * [Sync](https://github.com/BeenCoding/OS-NTUA/tree/master/Lab%203/Task_3.1 "Sync on given code") - locks vs atomic operations.
   * [Parallel calculation of the Mandelbrot set](https://github.com/BeenCoding/OS-NTUA/tree/master/Lab%203/Task_3.2 "Solution using threads"). See the difference between using more threads each time.
   
-  ### _[Lab 4](https://github.com/BeenCoding/OS-NTUA/blob/master/Definitions%20(Greek)/os-lab-exer4.pdf "Definition Lab 4 - Greek")_
+### _[Lab 4](https://github.com/BeenCoding/OS-NTUA/blob/master/Definitions%20(Greek)/os-lab-exer4.pdf "Definition Lab 4 - Greek")_
 * This lab was focused on:
   * [Creating a round-robin scheduler](https://github.com/BeenCoding/OS-NTUA/tree/master/Lab%204/Task_4.1). The scheduler is a parent proccess in the user space, distributing computational time in child processes. In order to control the processes, the scheduler will use the SIGSTOP and SIGCONT signals to stop and activate each process, respectively. Every proccess is being executed for a period of time equal to tq. If the proccess is terminated before the time equal to tq, the scheduler removes the proccess from the queue and activates the next one. If the time quantum is been reached and the proccess won't finish, the proccess terminates, its been placed to the end of the queue and the next proccess is been activated. The operation of the scheduler is required to be asynchronous based on signals. The scheduler will be using the SIGALRM (when the time quantum is reached the scheduler stops the current proccess) and SIGCHLD (pause or terminate the proccess) signals. Every proccess has its own id. The scheduler shows relevant messages at activation/pause/termination of a proccess. When all the proccesses are finished, the scheduler also terminates.
   Execution of the scheduler: ```./scheduler prog prog prog prog```
@@ -33,4 +33,4 @@
     * Make a low priority proccess high priority: ``` 'h' id_of_the_proccess ```
     * Make a high priority proccess low priority: ``` 'l' id_of_the_proccess ```
 
-  ###### **Parts of code were given from the lecturers teaching this course.**
+  ###### Parts of code were given from the lecturers teaching this course.
