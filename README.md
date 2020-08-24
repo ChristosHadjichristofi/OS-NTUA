@@ -33,4 +33,4 @@
     * Make a low priority proccess high priority: ``` 'h' id_of_the_proccess ```
     * Make a high priority proccess low priority: ``` 'l' id_of_the_proccess ```
 
-  ###### Parts of code were given from the lecturers teaching this course.
+  ###### **Parts of code were given from the lecturers teaching this course.**
