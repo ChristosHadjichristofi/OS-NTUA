@@ -1,6 +1,7 @@
 # Operating Systems - NTUA
 
-# Labs
+# Lab Exercises
+
 ### _[Lab 1](https://github.com/BeenCoding/OS-NTUA/blob/master/Definitions%20(Greek)/os-lab-exer1.pdf "Definition Lab 1 - Greek")_ - _[Report 1](https://github.com/BeenCoding/OS-NTUA/blob/master/Reports/report%201.pdf)_
 * This lab was focused on:
   * Introduction to Linux env and understanding the file system.
