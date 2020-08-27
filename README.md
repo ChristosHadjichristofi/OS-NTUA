@@ -4,7 +4,7 @@
 
 ### _[Lab 1](https://github.com/BeenCoding/OS-NTUA/blob/master/Definitions%20(Greek)/os-lab-exer1.pdf "Definition Lab 1 - Greek")_ - _[Report 1](https://github.com/BeenCoding/OS-NTUA/blob/master/Reports/report%201.pdf)_
 * This lab was focused on:
-  * Introduction to Linux env and understanding the file system.
+  * Introduction to Linux env and get to know how the file system works.
   * Creating object file and [Linking object files](https://github.com/BeenCoding/OS-NTUA/tree/master/Lab%202/Task_1.1)
   * [Merging two files into a third](https://github.com/BeenCoding/OS-NTUA/tree/master/Lab%202/Task_1.2) using read and write system calls.
 
