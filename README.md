@@ -1,5 +1,13 @@
 # Operating Systems - NTUA
 
+<p align="center">
+	<img alt="Byte Code Size" src="https://img.shields.io/github/languages/code-size/ChristosHadjichristofi/OS-NTUA?color=yellowgreen" />
+	<img alt="# Lines of Code" src="https://img.shields.io/tokei/lines/github/ChristosHadjichristofi/OS-NTUA?color=yellowgreen" />
+	<img alt="# Languages Used" src="https://img.shields.io/github/languages/count/ChristosHadjichristofi/OS-NTUA?color=yellow" />
+	<img alt="Top language" src="https://img.shields.io/github/languages/top/ChristosHadjichristofi/OS-NTUA?color=yellow" />
+	<img alt="Last commit" src="https://img.shields.io/github/last-commit/ChristosHadjichristofi/OS-NTUA?color=important" />
+</p>
+
 # Lab Exercises
 
 ### _[Lab 1](https://github.com/BeenCoding/OS-NTUA/blob/master/Definitions%20(Greek)/os-lab-exer1.pdf "Definition Lab 1 - Greek")_ - _[Report 1](https://github.com/BeenCoding/OS-NTUA/blob/master/Reports/report%201.pdf)_
